@@ -1,8 +1,8 @@
 {
   "submodule": "data",
   "file": "portfolio.json",
-  "lastUpdated": "2026-01-06T16:23:39.580Z",
-  "count": 590,
+  "lastUpdated": "2026-01-06T16:40:41.532Z",
+  "count": 620,
   "uniqueSymbols": [
     "AAPL",
     "AMC",
@@ -17,147 +17,147 @@
   ],
   "data": [
     {
-      "timestamp": "2025-12-22T09:00:07Z",
+      "timestamp": "2025-12-22T09:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T09:15:07Z",
+      "timestamp": "2025-12-22T09:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T09:30:07Z",
+      "timestamp": "2025-12-22T09:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T09:45:07Z",
+      "timestamp": "2025-12-22T09:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T10:00:07Z",
+      "timestamp": "2025-12-22T10:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T10:15:07Z",
+      "timestamp": "2025-12-22T10:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T10:30:07Z",
+      "timestamp": "2025-12-22T10:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T10:45:07Z",
+      "timestamp": "2025-12-22T10:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T11:00:07Z",
+      "timestamp": "2025-12-22T11:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T11:15:07Z",
+      "timestamp": "2025-12-22T11:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T11:30:07Z",
+      "timestamp": "2025-12-22T11:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T11:45:07Z",
+      "timestamp": "2025-12-22T11:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T12:00:07Z",
+      "timestamp": "2025-12-22T12:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T12:15:07Z",
+      "timestamp": "2025-12-22T12:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T12:30:07Z",
+      "timestamp": "2025-12-22T12:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T12:45:07Z",
+      "timestamp": "2025-12-22T12:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T13:00:07Z",
+      "timestamp": "2025-12-22T13:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T13:15:07Z",
+      "timestamp": "2025-12-22T13:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T13:30:07Z",
+      "timestamp": "2025-12-22T13:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T13:45:07Z",
+      "timestamp": "2025-12-22T13:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T14:00:07Z",
+      "timestamp": "2025-12-22T14:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T14:15:07Z",
+      "timestamp": "2025-12-22T14:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T14:30:07Z",
+      "timestamp": "2025-12-22T14:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T14:45:07Z",
+      "timestamp": "2025-12-22T14:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T15:00:07Z",
+      "timestamp": "2025-12-22T15:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T15:15:07Z",
+      "timestamp": "2025-12-22T15:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T15:30:07Z",
+      "timestamp": "2025-12-22T15:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T15:45:07Z",
+      "timestamp": "2025-12-22T15:45:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T16:00:07Z",
+      "timestamp": "2025-12-22T16:00:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T16:15:07Z",
+      "timestamp": "2025-12-22T16:15:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T16:30:07Z",
+      "timestamp": "2025-12-22T16:30:07+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T16:45:06Z",
+      "timestamp": "2025-12-22T16:45:06+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T17:00:06Z",
+      "timestamp": "2025-12-22T17:00:06+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T17:15:06Z",
+      "timestamp": "2025-12-22T17:15:06+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T17:30:06Z",
+      "timestamp": "2025-12-22T17:30:06+00:00",
       "positions": {}
     },
     {
-      "timestamp": "2025-12-22T17:45:06Z",
+      "timestamp": "2025-12-22T17:45:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "272.02",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T18:00:07Z",
+      "timestamp": "2025-12-22T18:00:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8415.88",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T18:15:07Z",
+      "timestamp": "2025-12-22T18:15:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8399.76",
@@ -256,7 +256,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T18:30:07Z",
+      "timestamp": "2025-12-22T18:30:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8398.52",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T18:45:07Z",
+      "timestamp": "2025-12-22T18:45:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8398.055",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T19:00:07Z",
+      "timestamp": "2025-12-22T19:00:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8392.7416",
@@ -391,7 +391,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T19:15:07Z",
+      "timestamp": "2025-12-22T19:15:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8397.1932",
@@ -436,7 +436,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T19:30:07Z",
+      "timestamp": "2025-12-22T19:30:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8397.5962",
@@ -481,7 +481,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T19:45:07Z",
+      "timestamp": "2025-12-22T19:45:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8399.14",
@@ -526,7 +526,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T20:00:07Z",
+      "timestamp": "2025-12-22T20:00:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8398.055",
@@ -571,7 +571,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T20:15:07Z",
+      "timestamp": "2025-12-22T20:15:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8401",
@@ -616,7 +616,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T20:30:07Z",
+      "timestamp": "2025-12-22T20:30:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8391.7",
@@ -661,7 +661,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T20:45:07Z",
+      "timestamp": "2025-12-22T20:45:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8390.3081",
@@ -706,7 +706,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T21:00:07Z",
+      "timestamp": "2025-12-22T21:00:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8395.11",
@@ -751,7 +751,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T21:15:06Z",
+      "timestamp": "2025-12-22T21:15:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8397.9",
@@ -796,7 +796,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T21:30:06Z",
+      "timestamp": "2025-12-22T21:30:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8394.8775",
@@ -841,7 +841,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T21:45:06Z",
+      "timestamp": "2025-12-22T21:45:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8400.07",
@@ -886,7 +886,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T22:00:06Z",
+      "timestamp": "2025-12-22T22:00:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8392.3169",
@@ -931,7 +931,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T22:15:07Z",
+      "timestamp": "2025-12-22T22:15:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8392.01",
@@ -976,7 +976,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T22:30:07Z",
+      "timestamp": "2025-12-22T22:30:07+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8390.46",
@@ -1021,7 +1021,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T22:45:06Z",
+      "timestamp": "2025-12-22T22:45:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8389.22",
@@ -1066,7 +1066,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T23:00:06Z",
+      "timestamp": "2025-12-22T23:00:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8390.46",
@@ -1111,7 +1111,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T23:15:06Z",
+      "timestamp": "2025-12-22T23:15:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8393.56",
@@ -1156,7 +1156,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T23:30:06Z",
+      "timestamp": "2025-12-22T23:30:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8395.11",
@@ -1201,7 +1201,7 @@
       }
     },
     {
-      "timestamp": "2025-12-22T23:45:06Z",
+      "timestamp": "2025-12-22T23:45:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8394.18",
@@ -1246,7 +1246,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T00:00:06Z",
+      "timestamp": "2025-12-23T00:00:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8393.87",
@@ -1291,7 +1291,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T00:15:06Z",
+      "timestamp": "2025-12-23T00:15:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8392.01",
@@ -1336,7 +1336,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T00:30:06Z",
+      "timestamp": "2025-12-23T00:30:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8394.49",
@@ -1381,7 +1381,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T00:45:06Z",
+      "timestamp": "2025-12-23T00:45:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8391.7",
@@ -1426,7 +1426,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T01:00:06Z",
+      "timestamp": "2025-12-23T01:00:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8393.87",
@@ -1471,7 +1471,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T03:15:06Z",
+      "timestamp": "2025-12-23T03:15:06+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8400.07",
@@ -1516,7 +1516,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T09:00:05Z",
+      "timestamp": "2025-12-23T09:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8393.87",
@@ -1561,7 +1561,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T09:15:05Z",
+      "timestamp": "2025-12-23T09:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8397.9",
@@ -1606,7 +1606,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T09:30:05Z",
+      "timestamp": "2025-12-23T09:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8401.62",
@@ -1651,7 +1651,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T09:45:05Z",
+      "timestamp": "2025-12-23T09:45:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8401",
@@ -1696,7 +1696,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T10:00:05Z",
+      "timestamp": "2025-12-23T10:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8394.8",
@@ -1741,7 +1741,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T10:15:05Z",
+      "timestamp": "2025-12-23T10:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8394.8",
@@ -1786,7 +1786,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T10:30:05Z",
+      "timestamp": "2025-12-23T10:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8398.52",
@@ -1831,7 +1831,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T10:45:05Z",
+      "timestamp": "2025-12-23T10:45:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8399.45",
@@ -1876,7 +1876,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T11:00:05Z",
+      "timestamp": "2025-12-23T11:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8399.45",
@@ -1921,7 +1921,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T11:15:05Z",
+      "timestamp": "2025-12-23T11:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8397.9",
@@ -1966,7 +1966,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T11:30:05Z",
+      "timestamp": "2025-12-23T11:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8395.11",
@@ -2011,7 +2011,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T11:45:05Z",
+      "timestamp": "2025-12-23T11:45:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8401.31",
@@ -2056,7 +2056,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T12:00:05Z",
+      "timestamp": "2025-12-23T12:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8407.2",
@@ -2101,7 +2101,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T12:15:05Z",
+      "timestamp": "2025-12-23T12:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8400.69",
@@ -2146,7 +2146,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T12:30:05Z",
+      "timestamp": "2025-12-23T12:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8396.66",
@@ -2191,7 +2191,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T12:45:05Z",
+      "timestamp": "2025-12-23T12:45:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8397.9",
@@ -2236,7 +2236,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T13:00:05Z",
+      "timestamp": "2025-12-23T13:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8396.3996",
@@ -2281,7 +2281,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T13:15:05Z",
+      "timestamp": "2025-12-23T13:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8407.2",
@@ -2326,7 +2326,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T13:30:04Z",
+      "timestamp": "2025-12-23T13:30:04+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8410.3",
@@ -2371,7 +2371,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T13:45:04Z",
+      "timestamp": "2025-12-23T13:45:04+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8405.34",
@@ -2416,7 +2416,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T14:00:05Z",
+      "timestamp": "2025-12-23T14:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8406.27",
@@ -2461,7 +2461,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T14:15:05Z",
+      "timestamp": "2025-12-23T14:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8405.5756",
@@ -2506,7 +2506,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T14:30:05Z",
+      "timestamp": "2025-12-23T14:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8396.35",
@@ -2551,7 +2551,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T14:45:05Z",
+      "timestamp": "2025-12-23T14:45:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8409.37",
@@ -2596,7 +2596,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T15:00:05Z",
+      "timestamp": "2025-12-23T15:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8404.72",
@@ -2641,7 +2641,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T15:15:05Z",
+      "timestamp": "2025-12-23T15:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8408.285",
@@ -2686,7 +2686,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T15:30:05Z",
+      "timestamp": "2025-12-23T15:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8396.66",
@@ -2731,7 +2731,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T15:45:05Z",
+      "timestamp": "2025-12-23T15:45:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8406.8063",
@@ -2776,7 +2776,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T16:00:05Z",
+      "timestamp": "2025-12-23T16:00:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8415.26",
@@ -2821,7 +2821,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T16:15:05Z",
+      "timestamp": "2025-12-23T16:15:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8424.25",
@@ -2866,7 +2866,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T16:30:05Z",
+      "timestamp": "2025-12-23T16:30:05+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8427.35",
@@ -2911,7 +2911,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T16:45:04Z",
+      "timestamp": "2025-12-23T16:45:04+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.24",
@@ -2956,7 +2956,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T16:55:01Z",
+      "timestamp": "2025-12-23T16:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.89",
@@ -3001,7 +3001,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T17:10:01Z",
+      "timestamp": "2025-12-23T17:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8427.1516",
@@ -3046,7 +3046,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T17:25:01Z",
+      "timestamp": "2025-12-23T17:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8422.39",
@@ -3091,7 +3091,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T17:40:01Z",
+      "timestamp": "2025-12-23T17:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8412.47",
@@ -3136,7 +3136,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T17:55:01Z",
+      "timestamp": "2025-12-23T17:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8415.88",
@@ -3181,7 +3181,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T18:10:01Z",
+      "timestamp": "2025-12-23T18:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8421.15",
@@ -3226,7 +3226,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T18:25:01Z",
+      "timestamp": "2025-12-23T18:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8423.165",
@@ -3271,7 +3271,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T18:40:01Z",
+      "timestamp": "2025-12-23T18:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8429.055",
@@ -3316,7 +3316,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T18:55:01Z",
+      "timestamp": "2025-12-23T18:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8428.2831",
@@ -3361,7 +3361,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T19:10:01Z",
+      "timestamp": "2025-12-23T19:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8418.36",
@@ -3406,7 +3406,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T19:25:01Z",
+      "timestamp": "2025-12-23T19:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8419.91",
@@ -3451,7 +3451,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T19:40:01Z",
+      "timestamp": "2025-12-23T19:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8424.87",
@@ -3496,7 +3496,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T19:55:01Z",
+      "timestamp": "2025-12-23T19:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.89",
@@ -3541,7 +3541,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T20:10:01Z",
+      "timestamp": "2025-12-23T20:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.085",
@@ -3586,7 +3586,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T20:25:01Z",
+      "timestamp": "2025-12-23T20:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.395",
@@ -3631,7 +3631,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T20:40:01Z",
+      "timestamp": "2025-12-23T20:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8434.79",
@@ -3676,7 +3676,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T20:55:01Z",
+      "timestamp": "2025-12-23T20:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8441.92",
@@ -3721,7 +3721,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T21:10:01Z",
+      "timestamp": "2025-12-23T21:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8439.13",
@@ -3766,7 +3766,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T21:25:02Z",
+      "timestamp": "2025-12-23T21:25:02+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8439.75",
@@ -3811,7 +3811,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T21:40:01Z",
+      "timestamp": "2025-12-23T21:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8438.2",
@@ -3856,7 +3856,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T21:55:01Z",
+      "timestamp": "2025-12-23T21:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8436.34",
@@ -3901,7 +3901,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T22:10:01Z",
+      "timestamp": "2025-12-23T22:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8436.2408",
@@ -3946,7 +3946,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T22:25:01Z",
+      "timestamp": "2025-12-23T22:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.8962",
@@ -3991,7 +3991,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T22:40:01Z",
+      "timestamp": "2025-12-23T22:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.58",
@@ -4036,7 +4036,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T22:55:01Z",
+      "timestamp": "2025-12-23T22:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.58",
@@ -4081,7 +4081,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T23:10:01Z",
+      "timestamp": "2025-12-23T23:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8434.48",
@@ -4126,7 +4126,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T23:25:01Z",
+      "timestamp": "2025-12-23T23:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.8869",
@@ -4171,7 +4171,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T23:40:01Z",
+      "timestamp": "2025-12-23T23:40:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8436.03",
@@ -4216,7 +4216,7 @@
       }
     },
     {
-      "timestamp": "2025-12-23T23:55:01Z",
+      "timestamp": "2025-12-23T23:55:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8435.1",
@@ -4261,7 +4261,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T00:10:01Z",
+      "timestamp": "2025-12-24T00:10:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.27",
@@ -4306,7 +4306,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T00:25:01Z",
+      "timestamp": "2025-12-24T00:25:01+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.58",
@@ -4351,7 +4351,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T00:40:00Z",
+      "timestamp": "2025-12-24T00:40:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.1026",
@@ -4396,7 +4396,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T00:55:00Z",
+      "timestamp": "2025-12-24T00:55:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8436.96",
@@ -4441,7 +4441,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T01:10:00Z",
+      "timestamp": "2025-12-24T01:10:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8437.58",
@@ -4486,7 +4486,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T03:10:00Z",
+      "timestamp": "2025-12-24T03:10:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8443.16",
@@ -4531,7 +4531,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T07:25:00Z",
+      "timestamp": "2025-12-24T07:25:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8443.16",
@@ -4576,7 +4576,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T09:10:00Z",
+      "timestamp": "2025-12-24T09:10:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8429.52",
@@ -4621,7 +4621,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T09:25:00Z",
+      "timestamp": "2025-12-24T09:25:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.55",
@@ -4666,7 +4666,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T09:40:00Z",
+      "timestamp": "2025-12-24T09:40:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.55",
@@ -4711,7 +4711,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T09:55:00Z",
+      "timestamp": "2025-12-24T09:55:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8428.28",
@@ -4756,7 +4756,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T10:10:00Z",
+      "timestamp": "2025-12-24T10:10:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8428.28",
@@ -4801,7 +4801,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T10:24:59Z",
+      "timestamp": "2025-12-24T10:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8427.66",
@@ -4846,7 +4846,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T10:40:00Z",
+      "timestamp": "2025-12-24T10:40:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8424.25",
@@ -4891,7 +4891,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T10:54:59Z",
+      "timestamp": "2025-12-24T10:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8416.81",
@@ -4936,7 +4936,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T11:09:59Z",
+      "timestamp": "2025-12-24T11:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8421.15",
@@ -4981,7 +4981,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T11:25:00Z",
+      "timestamp": "2025-12-24T11:25:00+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8421.46",
@@ -5026,7 +5026,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T11:39:59Z",
+      "timestamp": "2025-12-24T11:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8431.69",
@@ -5071,7 +5071,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T11:54:59Z",
+      "timestamp": "2025-12-24T11:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8434.17",
@@ -5116,7 +5116,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T12:09:59Z",
+      "timestamp": "2025-12-24T12:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.86",
@@ -5161,7 +5161,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T12:24:59Z",
+      "timestamp": "2025-12-24T12:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8430.76",
@@ -5206,7 +5206,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T12:39:59Z",
+      "timestamp": "2025-12-24T12:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8432",
@@ -5251,7 +5251,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T12:54:59Z",
+      "timestamp": "2025-12-24T12:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8434.17",
@@ -5296,7 +5296,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T13:09:59Z",
+      "timestamp": "2025-12-24T13:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8431.07",
@@ -5341,7 +5341,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T13:24:59Z",
+      "timestamp": "2025-12-24T13:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8432",
@@ -5386,7 +5386,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T13:39:59Z",
+      "timestamp": "2025-12-24T13:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8435.1",
@@ -5431,7 +5431,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T13:54:59Z",
+      "timestamp": "2025-12-24T13:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8438.2",
@@ -5476,7 +5476,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T14:09:59Z",
+      "timestamp": "2025-12-24T14:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8438.2",
@@ -5521,7 +5521,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T14:24:59Z",
+      "timestamp": "2025-12-24T14:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8433.86",
@@ -5566,7 +5566,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T14:39:59Z",
+      "timestamp": "2025-12-24T14:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8502.99",
@@ -5611,7 +5611,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T14:54:59Z",
+      "timestamp": "2025-12-24T14:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8496.635",
@@ -5656,7 +5656,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T15:09:59Z",
+      "timestamp": "2025-12-24T15:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8491.365",
@@ -5701,7 +5701,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T15:24:59Z",
+      "timestamp": "2025-12-24T15:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8497.2085",
@@ -5746,7 +5746,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T15:39:59Z",
+      "timestamp": "2025-12-24T15:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8499.5025",
@@ -5791,7 +5791,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T15:54:59Z",
+      "timestamp": "2025-12-24T15:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8505.16",
@@ -5836,7 +5836,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T16:09:59Z",
+      "timestamp": "2025-12-24T16:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8518.8",
@@ -5881,7 +5881,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T16:24:59Z",
+      "timestamp": "2025-12-24T16:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8520.6631",
@@ -5926,7 +5926,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T16:39:59Z",
+      "timestamp": "2025-12-24T16:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8523.605",
@@ -5971,7 +5971,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T16:54:59Z",
+      "timestamp": "2025-12-24T16:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8529.5725",
@@ -6016,7 +6016,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T17:09:59Z",
+      "timestamp": "2025-12-24T17:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8527.79",
@@ -6061,7 +6061,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T17:24:59Z",
+      "timestamp": "2025-12-24T17:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8533.06",
@@ -6106,7 +6106,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T17:39:59Z",
+      "timestamp": "2025-12-24T17:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8526.24",
@@ -6151,7 +6151,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T17:54:59Z",
+      "timestamp": "2025-12-24T17:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8485.785",
@@ -6196,7 +6196,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T18:09:59Z",
+      "timestamp": "2025-12-24T18:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8484.08",
@@ -6241,7 +6241,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T18:24:59Z",
+      "timestamp": "2025-12-24T18:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8480.98",
@@ -6286,7 +6286,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T18:39:59Z",
+      "timestamp": "2025-12-24T18:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8479.12",
@@ -6331,7 +6331,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T18:54:59Z",
+      "timestamp": "2025-12-24T18:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8481.6",
@@ -6376,7 +6376,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T19:09:59Z",
+      "timestamp": "2025-12-24T19:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8484.08",
@@ -6421,7 +6421,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T19:24:59Z",
+      "timestamp": "2025-12-24T19:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8480.05",
@@ -6466,7 +6466,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T19:39:59Z",
+      "timestamp": "2025-12-24T19:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8478.6519",
@@ -6511,7 +6511,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T19:54:59Z",
+      "timestamp": "2025-12-24T19:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8479.0053",
@@ -6556,7 +6556,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T20:09:59Z",
+      "timestamp": "2025-12-24T20:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8481.6",
@@ -6601,7 +6601,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T20:24:59Z",
+      "timestamp": "2025-12-24T20:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8483.1872",
@@ -6646,7 +6646,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T20:39:59Z",
+      "timestamp": "2025-12-24T20:39:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8484.08",
@@ -6691,7 +6691,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T20:54:59Z",
+      "timestamp": "2025-12-24T20:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8479.74",
@@ -6736,7 +6736,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T21:09:59Z",
+      "timestamp": "2025-12-24T21:09:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8483.15",
@@ -6781,7 +6781,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T21:24:59Z",
+      "timestamp": "2025-12-24T21:24:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8480.05",
@@ -6826,7 +6826,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T21:39:58Z",
+      "timestamp": "2025-12-24T21:39:58+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8479.43",
@@ -6871,7 +6871,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T21:54:59Z",
+      "timestamp": "2025-12-24T21:54:59+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8478.5",
@@ -6916,7 +6916,7 @@
       }
     },
     {
-      "timestamp": "2025-12-24T22:09:58Z",
+      "timestamp": "2025-12-24T22:09:58+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8480.36",
@@ -6961,7 +6961,7 @@
       }
     },
     {
-      "timestamp": "2025-12-25T03:09:58Z",
+      "timestamp": "2025-12-25T03:09:58+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8488.11",
@@ -7006,7 +7006,7 @@
       }
     },
     {
-      "timestamp": "2025-12-25T07:24:58Z",
+      "timestamp": "2025-12-25T07:24:58+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8488.11",
@@ -7051,7 +7051,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T09:09:55Z",
+      "timestamp": "2025-12-26T09:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8468.58",
@@ -7096,7 +7096,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T09:24:55Z",
+      "timestamp": "2025-12-26T09:24:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8469.2",
@@ -7141,7 +7141,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T09:39:55Z",
+      "timestamp": "2025-12-26T09:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8469.2",
@@ -7186,7 +7186,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T09:54:55Z",
+      "timestamp": "2025-12-26T09:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8469.2",
@@ -7231,7 +7231,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T10:09:55Z",
+      "timestamp": "2025-12-26T10:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8471.99",
@@ -7276,7 +7276,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T10:24:55Z",
+      "timestamp": "2025-12-26T10:24:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8471.99",
@@ -7321,7 +7321,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T10:39:55Z",
+      "timestamp": "2025-12-26T10:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8494",
@@ -7366,7 +7366,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T10:54:55Z",
+      "timestamp": "2025-12-26T10:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8494",
@@ -7411,7 +7411,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T11:09:55Z",
+      "timestamp": "2025-12-26T11:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8486.87",
@@ -7456,7 +7456,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T11:24:55Z",
+      "timestamp": "2025-12-26T11:24:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8490.28",
@@ -7501,7 +7501,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T11:39:55Z",
+      "timestamp": "2025-12-26T11:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8490.28",
@@ -7546,7 +7546,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T11:54:55Z",
+      "timestamp": "2025-12-26T11:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8483.46",
@@ -7591,7 +7591,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T12:09:55Z",
+      "timestamp": "2025-12-26T12:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8489.97",
@@ -7636,7 +7636,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T12:24:55Z",
+      "timestamp": "2025-12-26T12:24:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8489.66",
@@ -7681,7 +7681,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T12:39:55Z",
+      "timestamp": "2025-12-26T12:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8497.41",
@@ -7726,7 +7726,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T12:54:55Z",
+      "timestamp": "2025-12-26T12:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8497.72",
@@ -7771,7 +7771,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T13:09:55Z",
+      "timestamp": "2025-12-26T13:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8488.0604",
@@ -7816,7 +7816,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T13:24:55Z",
+      "timestamp": "2025-12-26T13:24:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8487.18",
@@ -7861,7 +7861,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T13:39:55Z",
+      "timestamp": "2025-12-26T13:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8495.55",
@@ -7906,7 +7906,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T13:54:54Z",
+      "timestamp": "2025-12-26T13:54:54+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8493.4544",
@@ -7951,7 +7951,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T14:09:55Z",
+      "timestamp": "2025-12-26T14:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8498.34",
@@ -7996,7 +7996,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T14:24:54Z",
+      "timestamp": "2025-12-26T14:24:54+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8480.05",
@@ -8041,7 +8041,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T14:39:55Z",
+      "timestamp": "2025-12-26T14:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8527.9388",
@@ -8086,7 +8086,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T14:54:55Z",
+      "timestamp": "2025-12-26T14:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8516.785",
@@ -8131,7 +8131,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T15:09:55Z",
+      "timestamp": "2025-12-26T15:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8511.98",
@@ -8176,7 +8176,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T15:24:54Z",
+      "timestamp": "2025-12-26T15:24:54+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8512.6",
@@ -8221,7 +8221,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T15:39:55Z",
+      "timestamp": "2025-12-26T15:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8518.335",
@@ -8266,7 +8266,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T15:54:55Z",
+      "timestamp": "2025-12-26T15:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8519.885",
@@ -8311,7 +8311,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T16:09:55Z",
+      "timestamp": "2025-12-26T16:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8517.56",
@@ -8356,7 +8356,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T16:24:54Z",
+      "timestamp": "2025-12-26T16:24:54+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8522.21",
@@ -8401,7 +8401,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T16:39:55Z",
+      "timestamp": "2025-12-26T16:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8515.39",
@@ -8446,7 +8446,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T16:54:55Z",
+      "timestamp": "2025-12-26T16:54:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8514.15",
@@ -8491,7 +8491,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T17:09:55Z",
+      "timestamp": "2025-12-26T17:09:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8514.305",
@@ -8536,7 +8536,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T17:24:54Z",
+      "timestamp": "2025-12-26T17:24:54+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8514.46",
@@ -8581,7 +8581,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T17:39:55Z",
+      "timestamp": "2025-12-26T17:39:55+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8505.78",
@@ -8626,7 +8626,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T17:54:54Z",
+      "timestamp": "2025-12-26T17:54:54+00:00",
       "positions": {
         "AAPL": {
           "marketValue": "8509.19",
@@ -8671,7 +8671,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T18:09:55Z",
+      "timestamp": "2025-12-26T18:09:55+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3084",
@@ -8704,7 +8704,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T18:24:55Z",
+      "timestamp": "2025-12-26T18:24:55+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.32",
@@ -8737,7 +8737,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T18:39:55Z",
+      "timestamp": "2025-12-26T18:39:55+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.308",
@@ -8770,7 +8770,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T18:54:55Z",
+      "timestamp": "2025-12-26T18:54:55+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2912",
@@ -8803,7 +8803,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T19:09:54Z",
+      "timestamp": "2025-12-26T19:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3",
@@ -8836,7 +8836,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T19:24:54Z",
+      "timestamp": "2025-12-26T19:24:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.31",
@@ -8869,7 +8869,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T19:39:54Z",
+      "timestamp": "2025-12-26T19:39:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.35",
@@ -8902,7 +8902,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T19:54:54Z",
+      "timestamp": "2025-12-26T19:54:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.35",
@@ -8935,7 +8935,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T20:09:54Z",
+      "timestamp": "2025-12-26T20:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.43",
@@ -8968,7 +8968,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T20:24:54Z",
+      "timestamp": "2025-12-26T20:24:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.43",
@@ -9001,7 +9001,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T20:39:54Z",
+      "timestamp": "2025-12-26T20:39:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.44",
@@ -9034,7 +9034,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T20:54:54Z",
+      "timestamp": "2025-12-26T20:54:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9067,7 +9067,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T21:09:54Z",
+      "timestamp": "2025-12-26T21:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9100,7 +9100,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T21:24:54Z",
+      "timestamp": "2025-12-26T21:24:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.4",
@@ -9133,7 +9133,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T21:39:54Z",
+      "timestamp": "2025-12-26T21:39:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.4",
@@ -9166,7 +9166,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T21:54:54Z",
+      "timestamp": "2025-12-26T21:54:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.381",
@@ -9199,7 +9199,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T22:09:54Z",
+      "timestamp": "2025-12-26T22:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.398",
@@ -9232,7 +9232,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T22:24:54Z",
+      "timestamp": "2025-12-26T22:24:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3818",
@@ -9265,7 +9265,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T22:39:54Z",
+      "timestamp": "2025-12-26T22:39:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3984",
@@ -9298,7 +9298,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T22:54:54Z",
+      "timestamp": "2025-12-26T22:54:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9331,7 +9331,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T23:09:54Z",
+      "timestamp": "2025-12-26T23:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3982",
@@ -9364,7 +9364,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T23:24:54Z",
+      "timestamp": "2025-12-26T23:24:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3998",
@@ -9397,7 +9397,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T23:39:54Z",
+      "timestamp": "2025-12-26T23:39:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.4",
@@ -9430,7 +9430,7 @@
       }
     },
     {
-      "timestamp": "2025-12-26T23:54:54Z",
+      "timestamp": "2025-12-26T23:54:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3994",
@@ -9463,7 +9463,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T00:09:54Z",
+      "timestamp": "2025-12-27T00:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9496,7 +9496,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T00:24:54Z",
+      "timestamp": "2025-12-27T00:24:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3804",
@@ -9529,7 +9529,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T00:39:54Z",
+      "timestamp": "2025-12-27T00:39:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9562,7 +9562,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T00:54:59Z",
+      "timestamp": "2025-12-27T00:54:59+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.4",
@@ -9595,7 +9595,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T01:09:54Z",
+      "timestamp": "2025-12-27T01:09:54+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.4",
@@ -9628,7 +9628,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T03:09:53Z",
+      "timestamp": "2025-12-27T03:09:53+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9661,7 +9661,7 @@
       }
     },
     {
-      "timestamp": "2025-12-27T07:24:53Z",
+      "timestamp": "2025-12-27T07:24:53+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9694,7 +9694,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T09:09:47Z",
+      "timestamp": "2025-12-29T09:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9727,7 +9727,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T09:24:48Z",
+      "timestamp": "2025-12-29T09:24:48+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9760,7 +9760,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T09:39:48Z",
+      "timestamp": "2025-12-29T09:39:48+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9793,7 +9793,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T09:54:48Z",
+      "timestamp": "2025-12-29T09:54:48+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -9826,7 +9826,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T10:09:47Z",
+      "timestamp": "2025-12-29T10:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.36",
@@ -9859,7 +9859,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T10:24:47Z",
+      "timestamp": "2025-12-29T10:24:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.4",
@@ -9892,7 +9892,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T10:39:47Z",
+      "timestamp": "2025-12-29T10:39:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.37",
@@ -9925,7 +9925,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T10:54:47Z",
+      "timestamp": "2025-12-29T10:54:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.37",
@@ -9958,7 +9958,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T11:09:47Z",
+      "timestamp": "2025-12-29T11:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.37",
@@ -9991,7 +9991,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T11:24:47Z",
+      "timestamp": "2025-12-29T11:24:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.36",
@@ -10024,7 +10024,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T11:39:47Z",
+      "timestamp": "2025-12-29T11:39:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10057,7 +10057,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T11:54:48Z",
+      "timestamp": "2025-12-29T11:54:48+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10090,7 +10090,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T12:09:47Z",
+      "timestamp": "2025-12-29T12:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10123,7 +10123,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T12:24:47Z",
+      "timestamp": "2025-12-29T12:24:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10156,7 +10156,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T12:39:47Z",
+      "timestamp": "2025-12-29T12:39:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10189,7 +10189,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T12:54:47Z",
+      "timestamp": "2025-12-29T12:54:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10222,7 +10222,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T13:09:47Z",
+      "timestamp": "2025-12-29T13:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10255,7 +10255,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T13:24:47Z",
+      "timestamp": "2025-12-29T13:24:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10288,7 +10288,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T13:39:47Z",
+      "timestamp": "2025-12-29T13:39:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.36",
@@ -10321,7 +10321,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T13:54:47Z",
+      "timestamp": "2025-12-29T13:54:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.38",
@@ -10354,7 +10354,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T14:09:47Z",
+      "timestamp": "2025-12-29T14:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3604",
@@ -10387,7 +10387,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T14:24:47Z",
+      "timestamp": "2025-12-29T14:24:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.37",
@@ -10420,7 +10420,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T14:39:47Z",
+      "timestamp": "2025-12-29T14:39:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.296",
@@ -10453,7 +10453,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T14:54:46Z",
+      "timestamp": "2025-12-29T14:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3506",
@@ -10486,7 +10486,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T15:09:47Z",
+      "timestamp": "2025-12-29T15:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.29",
@@ -10519,7 +10519,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T15:24:46Z",
+      "timestamp": "2025-12-29T15:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2924",
@@ -10552,7 +10552,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T15:39:46Z",
+      "timestamp": "2025-12-29T15:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.29",
@@ -10585,7 +10585,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T15:54:46Z",
+      "timestamp": "2025-12-29T15:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -10618,7 +10618,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T16:09:47Z",
+      "timestamp": "2025-12-29T16:09:47+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -10651,7 +10651,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T16:24:46Z",
+      "timestamp": "2025-12-29T16:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -10684,7 +10684,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T16:39:46Z",
+      "timestamp": "2025-12-29T16:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2722",
@@ -10717,7 +10717,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T16:54:46Z",
+      "timestamp": "2025-12-29T16:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -10750,7 +10750,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T17:09:46Z",
+      "timestamp": "2025-12-29T17:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -10783,7 +10783,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T17:24:46Z",
+      "timestamp": "2025-12-29T17:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -10816,7 +10816,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T17:39:46Z",
+      "timestamp": "2025-12-29T17:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2678",
@@ -10849,7 +10849,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T17:54:46Z",
+      "timestamp": "2025-12-29T17:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3002",
@@ -10882,7 +10882,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T18:09:46Z",
+      "timestamp": "2025-12-29T18:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -10915,7 +10915,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T18:24:46Z",
+      "timestamp": "2025-12-29T18:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3",
@@ -10948,7 +10948,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T18:39:46Z",
+      "timestamp": "2025-12-29T18:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.29",
@@ -10981,7 +10981,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T18:54:46Z",
+      "timestamp": "2025-12-29T18:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -11014,7 +11014,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T19:09:46Z",
+      "timestamp": "2025-12-29T19:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -11047,7 +11047,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T19:24:46Z",
+      "timestamp": "2025-12-29T19:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -11080,7 +11080,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T19:39:46Z",
+      "timestamp": "2025-12-29T19:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.3",
@@ -11113,7 +11113,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T19:54:46Z",
+      "timestamp": "2025-12-29T19:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2922",
@@ -11146,7 +11146,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T20:09:46Z",
+      "timestamp": "2025-12-29T20:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11179,7 +11179,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T20:24:46Z",
+      "timestamp": "2025-12-29T20:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -11212,7 +11212,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T20:39:46Z",
+      "timestamp": "2025-12-29T20:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -11245,7 +11245,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T20:54:46Z",
+      "timestamp": "2025-12-29T20:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -11278,7 +11278,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T21:09:46Z",
+      "timestamp": "2025-12-29T21:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11311,7 +11311,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T21:24:46Z",
+      "timestamp": "2025-12-29T21:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11344,7 +11344,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T21:39:46Z",
+      "timestamp": "2025-12-29T21:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11377,7 +11377,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T21:54:46Z",
+      "timestamp": "2025-12-29T21:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -11410,7 +11410,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T22:09:46Z",
+      "timestamp": "2025-12-29T22:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11443,7 +11443,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T22:24:46Z",
+      "timestamp": "2025-12-29T22:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11476,7 +11476,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T22:39:46Z",
+      "timestamp": "2025-12-29T22:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11509,7 +11509,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T22:54:46Z",
+      "timestamp": "2025-12-29T22:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2588",
@@ -11542,7 +11542,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T23:09:46Z",
+      "timestamp": "2025-12-29T23:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11575,7 +11575,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T23:24:46Z",
+      "timestamp": "2025-12-29T23:24:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2582",
@@ -11608,7 +11608,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T23:39:46Z",
+      "timestamp": "2025-12-29T23:39:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.259",
@@ -11641,7 +11641,7 @@
       }
     },
     {
-      "timestamp": "2025-12-29T23:54:46Z",
+      "timestamp": "2025-12-29T23:54:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.258",
@@ -11674,7 +11674,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T00:09:46Z",
+      "timestamp": "2025-12-30T00:09:46+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11707,7 +11707,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T00:24:45Z",
+      "timestamp": "2025-12-30T00:24:45+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2408",
@@ -11740,7 +11740,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T00:39:45Z",
+      "timestamp": "2025-12-30T00:39:45+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -11773,7 +11773,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T00:54:45Z",
+      "timestamp": "2025-12-30T00:54:45+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11806,7 +11806,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T01:09:45Z",
+      "timestamp": "2025-12-30T01:09:45+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11839,7 +11839,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T03:09:45Z",
+      "timestamp": "2025-12-30T03:09:45+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11872,7 +11872,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T07:24:45Z",
+      "timestamp": "2025-12-30T07:24:45+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11905,7 +11905,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T09:09:44Z",
+      "timestamp": "2025-12-30T09:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -11938,7 +11938,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T09:24:44Z",
+      "timestamp": "2025-12-30T09:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -11971,7 +11971,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T09:39:44Z",
+      "timestamp": "2025-12-30T09:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -12004,7 +12004,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T09:54:44Z",
+      "timestamp": "2025-12-30T09:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -12037,7 +12037,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T10:09:44Z",
+      "timestamp": "2025-12-30T10:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12070,7 +12070,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T10:24:44Z",
+      "timestamp": "2025-12-30T10:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12103,7 +12103,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T10:39:44Z",
+      "timestamp": "2025-12-30T10:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -12136,7 +12136,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T10:54:44Z",
+      "timestamp": "2025-12-30T10:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.28",
@@ -12169,7 +12169,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T11:09:44Z",
+      "timestamp": "2025-12-30T11:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12202,7 +12202,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T11:24:44Z",
+      "timestamp": "2025-12-30T11:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12235,7 +12235,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T11:39:44Z",
+      "timestamp": "2025-12-30T11:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12268,7 +12268,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T11:54:44Z",
+      "timestamp": "2025-12-30T11:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -12301,7 +12301,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T12:09:44Z",
+      "timestamp": "2025-12-30T12:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12334,7 +12334,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T12:24:44Z",
+      "timestamp": "2025-12-30T12:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12367,7 +12367,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T12:39:44Z",
+      "timestamp": "2025-12-30T12:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12400,7 +12400,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T12:54:44Z",
+      "timestamp": "2025-12-30T12:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12433,7 +12433,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T13:09:44Z",
+      "timestamp": "2025-12-30T13:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12466,7 +12466,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T13:24:44Z",
+      "timestamp": "2025-12-30T13:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12499,7 +12499,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T13:39:44Z",
+      "timestamp": "2025-12-30T13:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12532,7 +12532,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T13:54:44Z",
+      "timestamp": "2025-12-30T13:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2596",
@@ -12565,7 +12565,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T14:09:44Z",
+      "timestamp": "2025-12-30T14:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.26",
@@ -12598,7 +12598,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T14:24:44Z",
+      "timestamp": "2025-12-30T14:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -12631,7 +12631,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T14:39:44Z",
+      "timestamp": "2025-12-30T14:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -12664,7 +12664,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T14:54:44Z",
+      "timestamp": "2025-12-30T14:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.27",
@@ -12697,7 +12697,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T15:09:44Z",
+      "timestamp": "2025-12-30T15:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -12730,7 +12730,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T15:24:44Z",
+      "timestamp": "2025-12-30T15:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -12763,7 +12763,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T15:39:44Z",
+      "timestamp": "2025-12-30T15:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.21",
@@ -12796,7 +12796,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T15:54:44Z",
+      "timestamp": "2025-12-30T15:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.202",
@@ -12829,7 +12829,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T16:09:44Z",
+      "timestamp": "2025-12-30T16:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -12862,7 +12862,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T16:24:44Z",
+      "timestamp": "2025-12-30T16:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2484",
@@ -12895,7 +12895,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T16:39:44Z",
+      "timestamp": "2025-12-30T16:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2398",
@@ -12928,7 +12928,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T16:54:44Z",
+      "timestamp": "2025-12-30T16:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -12961,7 +12961,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T17:09:44Z",
+      "timestamp": "2025-12-30T17:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2402",
@@ -12994,7 +12994,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T17:24:44Z",
+      "timestamp": "2025-12-30T17:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -13027,7 +13027,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T17:39:44Z",
+      "timestamp": "2025-12-30T17:39:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -13060,7 +13060,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T17:54:44Z",
+      "timestamp": "2025-12-30T17:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -13093,7 +13093,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T18:09:44Z",
+      "timestamp": "2025-12-30T18:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -13126,7 +13126,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T18:24:44Z",
+      "timestamp": "2025-12-30T18:24:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -13159,7 +13159,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T18:39:43Z",
+      "timestamp": "2025-12-30T18:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -13192,7 +13192,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T18:54:43Z",
+      "timestamp": "2025-12-30T18:54:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -13225,7 +13225,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T19:09:43Z",
+      "timestamp": "2025-12-30T19:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2202",
@@ -13258,7 +13258,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T19:24:43Z",
+      "timestamp": "2025-12-30T19:24:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -13291,7 +13291,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T19:39:43Z",
+      "timestamp": "2025-12-30T19:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -13324,7 +13324,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T19:54:43Z",
+      "timestamp": "2025-12-30T19:54:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -13357,7 +13357,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T20:09:44Z",
+      "timestamp": "2025-12-30T20:09:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -13390,7 +13390,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T20:24:43Z",
+      "timestamp": "2025-12-30T20:24:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -13423,7 +13423,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T20:39:43Z",
+      "timestamp": "2025-12-30T20:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -13456,7 +13456,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T20:54:44Z",
+      "timestamp": "2025-12-30T20:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.23",
@@ -13489,7 +13489,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T21:09:43Z",
+      "timestamp": "2025-12-30T21:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13522,7 +13522,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T21:24:43Z",
+      "timestamp": "2025-12-30T21:24:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2002",
@@ -13555,7 +13555,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T21:39:43Z",
+      "timestamp": "2025-12-30T21:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -13588,7 +13588,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T21:54:44Z",
+      "timestamp": "2025-12-30T21:54:44+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -13621,7 +13621,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T22:09:43Z",
+      "timestamp": "2025-12-30T22:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2004",
@@ -13654,7 +13654,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T22:24:43Z",
+      "timestamp": "2025-12-30T22:24:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13687,7 +13687,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T22:39:43Z",
+      "timestamp": "2025-12-30T22:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13720,7 +13720,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T22:54:43Z",
+      "timestamp": "2025-12-30T22:54:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13753,7 +13753,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T23:09:43Z",
+      "timestamp": "2025-12-30T23:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.21",
@@ -13786,7 +13786,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T23:24:43Z",
+      "timestamp": "2025-12-30T23:24:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13819,7 +13819,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T23:39:43Z",
+      "timestamp": "2025-12-30T23:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2168",
@@ -13852,7 +13852,7 @@
       }
     },
     {
-      "timestamp": "2025-12-30T23:54:43Z",
+      "timestamp": "2025-12-30T23:54:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13885,7 +13885,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T00:09:43Z",
+      "timestamp": "2025-12-31T00:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -13918,7 +13918,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T00:24:43Z",
+      "timestamp": "2025-12-31T00:24:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2198",
@@ -13951,7 +13951,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T00:39:43Z",
+      "timestamp": "2025-12-31T00:39:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -13984,7 +13984,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T00:54:43Z",
+      "timestamp": "2025-12-31T00:54:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14017,7 +14017,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T01:09:43Z",
+      "timestamp": "2025-12-31T01:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14050,7 +14050,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T03:09:43Z",
+      "timestamp": "2025-12-31T03:09:43+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14083,7 +14083,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T07:24:42Z",
+      "timestamp": "2025-12-31T07:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14116,7 +14116,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T09:09:42Z",
+      "timestamp": "2025-12-31T09:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14149,7 +14149,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T09:24:42Z",
+      "timestamp": "2025-12-31T09:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14182,7 +14182,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T09:39:42Z",
+      "timestamp": "2025-12-31T09:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14215,7 +14215,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T09:54:42Z",
+      "timestamp": "2025-12-31T09:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14248,7 +14248,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T10:09:42Z",
+      "timestamp": "2025-12-31T10:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14281,7 +14281,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T10:24:42Z",
+      "timestamp": "2025-12-31T10:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14314,7 +14314,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T10:39:42Z",
+      "timestamp": "2025-12-31T10:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14347,7 +14347,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T10:54:42Z",
+      "timestamp": "2025-12-31T10:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14380,7 +14380,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T11:09:42Z",
+      "timestamp": "2025-12-31T11:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14413,7 +14413,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T11:24:42Z",
+      "timestamp": "2025-12-31T11:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14446,7 +14446,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T11:39:42Z",
+      "timestamp": "2025-12-31T11:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14479,7 +14479,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T11:54:42Z",
+      "timestamp": "2025-12-31T11:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14512,7 +14512,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T12:09:42Z",
+      "timestamp": "2025-12-31T12:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -14545,7 +14545,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T12:24:42Z",
+      "timestamp": "2025-12-31T12:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14578,7 +14578,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T12:39:42Z",
+      "timestamp": "2025-12-31T12:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14611,7 +14611,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T12:54:42Z",
+      "timestamp": "2025-12-31T12:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14644,7 +14644,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T13:09:42Z",
+      "timestamp": "2025-12-31T13:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14677,7 +14677,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T13:24:42Z",
+      "timestamp": "2025-12-31T13:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2202",
@@ -14710,7 +14710,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T13:39:42Z",
+      "timestamp": "2025-12-31T13:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14743,7 +14743,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T13:54:42Z",
+      "timestamp": "2025-12-31T13:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2206",
@@ -14776,7 +14776,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T14:09:42Z",
+      "timestamp": "2025-12-31T14:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14809,7 +14809,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T14:24:42Z",
+      "timestamp": "2025-12-31T14:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -14842,7 +14842,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T14:39:42Z",
+      "timestamp": "2025-12-31T14:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -14875,7 +14875,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T14:54:42Z",
+      "timestamp": "2025-12-31T14:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.169",
@@ -14908,7 +14908,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T15:09:42Z",
+      "timestamp": "2025-12-31T15:09:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1612",
@@ -14941,7 +14941,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T15:24:41Z",
+      "timestamp": "2025-12-31T15:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -14974,7 +14974,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T15:39:42Z",
+      "timestamp": "2025-12-31T15:39:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -15007,7 +15007,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T15:54:42Z",
+      "timestamp": "2025-12-31T15:54:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1786",
@@ -15040,7 +15040,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T16:09:41Z",
+      "timestamp": "2025-12-31T16:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -15073,7 +15073,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T16:24:42Z",
+      "timestamp": "2025-12-31T16:24:42+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.19",
@@ -15106,7 +15106,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T16:39:41Z",
+      "timestamp": "2025-12-31T16:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -15139,7 +15139,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T16:54:41Z",
+      "timestamp": "2025-12-31T16:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -15172,7 +15172,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T17:09:41Z",
+      "timestamp": "2025-12-31T17:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1602",
@@ -15205,7 +15205,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T17:24:41Z",
+      "timestamp": "2025-12-31T17:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -15238,7 +15238,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T17:39:41Z",
+      "timestamp": "2025-12-31T17:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -15271,7 +15271,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T17:54:41Z",
+      "timestamp": "2025-12-31T17:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.15",
@@ -15304,7 +15304,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T18:09:41Z",
+      "timestamp": "2025-12-31T18:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.15",
@@ -15337,7 +15337,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T18:24:41Z",
+      "timestamp": "2025-12-31T18:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.15",
@@ -15370,7 +15370,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T18:39:41Z",
+      "timestamp": "2025-12-31T18:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -15403,7 +15403,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T18:54:41Z",
+      "timestamp": "2025-12-31T18:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -15436,7 +15436,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T19:09:41Z",
+      "timestamp": "2025-12-31T19:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.15",
@@ -15469,7 +15469,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T19:24:41Z",
+      "timestamp": "2025-12-31T19:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -15502,7 +15502,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T19:39:41Z",
+      "timestamp": "2025-12-31T19:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -15535,7 +15535,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T19:54:41Z",
+      "timestamp": "2025-12-31T19:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1288",
@@ -15568,7 +15568,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T20:09:41Z",
+      "timestamp": "2025-12-31T20:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15601,7 +15601,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T20:24:41Z",
+      "timestamp": "2025-12-31T20:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15634,7 +15634,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T20:39:41Z",
+      "timestamp": "2025-12-31T20:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -15667,7 +15667,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T20:54:41Z",
+      "timestamp": "2025-12-31T20:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15700,7 +15700,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T21:09:41Z",
+      "timestamp": "2025-12-31T21:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -15733,7 +15733,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T21:24:41Z",
+      "timestamp": "2025-12-31T21:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.08",
@@ -15766,7 +15766,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T21:39:41Z",
+      "timestamp": "2025-12-31T21:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.0998",
@@ -15799,7 +15799,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T21:54:41Z",
+      "timestamp": "2025-12-31T21:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15832,7 +15832,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T22:09:41Z",
+      "timestamp": "2025-12-31T22:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15865,7 +15865,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T22:24:41Z",
+      "timestamp": "2025-12-31T22:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15898,7 +15898,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T22:39:41Z",
+      "timestamp": "2025-12-31T22:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -15931,7 +15931,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T22:54:41Z",
+      "timestamp": "2025-12-31T22:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1196",
@@ -15964,7 +15964,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T23:09:41Z",
+      "timestamp": "2025-12-31T23:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -15997,7 +15997,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T23:24:41Z",
+      "timestamp": "2025-12-31T23:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -16030,7 +16030,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T23:39:41Z",
+      "timestamp": "2025-12-31T23:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -16063,7 +16063,7 @@
       }
     },
     {
-      "timestamp": "2025-12-31T23:54:41Z",
+      "timestamp": "2025-12-31T23:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.118",
@@ -16096,7 +16096,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T00:09:41Z",
+      "timestamp": "2026-01-01T00:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1182",
@@ -16129,7 +16129,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T00:24:41Z",
+      "timestamp": "2026-01-01T00:24:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1002",
@@ -16162,7 +16162,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T00:39:41Z",
+      "timestamp": "2026-01-01T00:39:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1006",
@@ -16195,7 +16195,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T00:54:41Z",
+      "timestamp": "2026-01-01T00:54:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -16228,7 +16228,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T01:09:41Z",
+      "timestamp": "2026-01-01T01:09:41+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -16261,7 +16261,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T03:09:40Z",
+      "timestamp": "2026-01-01T03:09:40+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -16294,7 +16294,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T06:39:40Z",
+      "timestamp": "2026-01-01T06:39:40+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -16327,7 +16327,7 @@
       }
     },
     {
-      "timestamp": "2026-01-01T07:24:40Z",
+      "timestamp": "2026-01-01T07:24:40+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -16360,7 +16360,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T09:09:37Z",
+      "timestamp": "2026-01-02T09:09:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -16393,7 +16393,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T09:24:37Z",
+      "timestamp": "2026-01-02T09:24:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -16426,7 +16426,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T09:39:37Z",
+      "timestamp": "2026-01-02T09:39:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -16459,7 +16459,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T09:54:37Z",
+      "timestamp": "2026-01-02T09:54:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -16492,7 +16492,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T10:09:37Z",
+      "timestamp": "2026-01-02T10:09:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -16525,7 +16525,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T10:24:37Z",
+      "timestamp": "2026-01-02T10:24:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16558,7 +16558,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T10:39:37Z",
+      "timestamp": "2026-01-02T10:39:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16591,7 +16591,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T10:54:37Z",
+      "timestamp": "2026-01-02T10:54:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16624,7 +16624,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T11:09:37Z",
+      "timestamp": "2026-01-02T11:09:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16657,7 +16657,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T11:24:37Z",
+      "timestamp": "2026-01-02T11:24:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16690,7 +16690,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T11:39:37Z",
+      "timestamp": "2026-01-02T11:39:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16723,7 +16723,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T11:54:37Z",
+      "timestamp": "2026-01-02T11:54:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16756,7 +16756,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T12:09:37Z",
+      "timestamp": "2026-01-02T12:09:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16789,7 +16789,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T12:24:37Z",
+      "timestamp": "2026-01-02T12:24:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16822,7 +16822,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T12:39:37Z",
+      "timestamp": "2026-01-02T12:39:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16855,7 +16855,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T12:54:37Z",
+      "timestamp": "2026-01-02T12:54:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -16888,7 +16888,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T13:09:36Z",
+      "timestamp": "2026-01-02T13:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.122",
@@ -16921,7 +16921,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T13:24:37Z",
+      "timestamp": "2026-01-02T13:24:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -16954,7 +16954,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T13:39:36Z",
+      "timestamp": "2026-01-02T13:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1594",
@@ -16987,7 +16987,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T13:54:37Z",
+      "timestamp": "2026-01-02T13:54:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -17020,7 +17020,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T14:09:37Z",
+      "timestamp": "2026-01-02T14:09:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -17053,7 +17053,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T14:24:36Z",
+      "timestamp": "2026-01-02T14:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1598",
@@ -17086,7 +17086,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T14:39:37Z",
+      "timestamp": "2026-01-02T14:39:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.09",
@@ -17119,7 +17119,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T14:54:36Z",
+      "timestamp": "2026-01-02T14:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.0204",
@@ -17152,7 +17152,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T15:09:36Z",
+      "timestamp": "2026-01-02T15:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.02",
@@ -17185,7 +17185,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T15:24:36Z",
+      "timestamp": "2026-01-02T15:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.04",
@@ -17218,7 +17218,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T15:39:36Z",
+      "timestamp": "2026-01-02T15:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.08",
@@ -17251,7 +17251,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T15:54:36Z",
+      "timestamp": "2026-01-02T15:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.09",
@@ -17284,7 +17284,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T16:09:37Z",
+      "timestamp": "2026-01-02T16:09:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -17317,7 +17317,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T16:24:36Z",
+      "timestamp": "2026-01-02T16:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.09",
@@ -17350,7 +17350,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T16:39:37Z",
+      "timestamp": "2026-01-02T16:39:37+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1316",
@@ -17383,7 +17383,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T16:54:36Z",
+      "timestamp": "2026-01-02T16:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.15",
@@ -17416,7 +17416,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T17:09:36Z",
+      "timestamp": "2026-01-02T17:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -17449,7 +17449,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T17:24:36Z",
+      "timestamp": "2026-01-02T17:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -17482,7 +17482,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T17:39:36Z",
+      "timestamp": "2026-01-02T17:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -17515,7 +17515,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T17:54:36Z",
+      "timestamp": "2026-01-02T17:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1996",
@@ -17548,7 +17548,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T18:09:36Z",
+      "timestamp": "2026-01-02T18:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -17581,7 +17581,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T18:24:36Z",
+      "timestamp": "2026-01-02T18:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -17614,7 +17614,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T18:39:36Z",
+      "timestamp": "2026-01-02T18:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -17647,7 +17647,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T18:54:36Z",
+      "timestamp": "2026-01-02T18:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.17",
@@ -17680,7 +17680,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T19:24:36Z",
+      "timestamp": "2026-01-02T19:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.21",
@@ -17713,7 +17713,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T19:39:36Z",
+      "timestamp": "2026-01-02T19:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -17746,7 +17746,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T19:54:36Z",
+      "timestamp": "2026-01-02T19:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.21",
@@ -17779,7 +17779,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T20:09:36Z",
+      "timestamp": "2026-01-02T20:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.21",
@@ -17812,7 +17812,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T20:24:36Z",
+      "timestamp": "2026-01-02T20:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -17845,7 +17845,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T20:39:36Z",
+      "timestamp": "2026-01-02T20:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.21",
@@ -17878,7 +17878,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T20:54:36Z",
+      "timestamp": "2026-01-02T20:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -17911,7 +17911,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T21:09:36Z",
+      "timestamp": "2026-01-02T21:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -17944,7 +17944,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T21:24:36Z",
+      "timestamp": "2026-01-02T21:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -17977,7 +17977,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T21:39:36Z",
+      "timestamp": "2026-01-02T21:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -18010,7 +18010,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T21:54:36Z",
+      "timestamp": "2026-01-02T21:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18043,7 +18043,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T22:09:36Z",
+      "timestamp": "2026-01-02T22:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18076,7 +18076,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T22:24:36Z",
+      "timestamp": "2026-01-02T22:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -18109,7 +18109,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T22:39:36Z",
+      "timestamp": "2026-01-02T22:39:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2194",
@@ -18142,7 +18142,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T22:54:36Z",
+      "timestamp": "2026-01-02T22:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18175,7 +18175,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T23:09:36Z",
+      "timestamp": "2026-01-02T23:09:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18208,7 +18208,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T23:24:36Z",
+      "timestamp": "2026-01-02T23:24:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2002",
@@ -18241,7 +18241,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T23:39:35Z",
+      "timestamp": "2026-01-02T23:39:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2186",
@@ -18274,7 +18274,7 @@
       }
     },
     {
-      "timestamp": "2026-01-02T23:54:35Z",
+      "timestamp": "2026-01-02T23:54:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2192",
@@ -18307,7 +18307,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T00:09:35Z",
+      "timestamp": "2026-01-03T00:09:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18340,7 +18340,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T00:24:35Z",
+      "timestamp": "2026-01-03T00:24:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18373,7 +18373,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T00:39:35Z",
+      "timestamp": "2026-01-03T00:39:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2198",
@@ -18406,7 +18406,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T00:54:36Z",
+      "timestamp": "2026-01-03T00:54:36+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2196",
@@ -18439,7 +18439,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T01:09:35Z",
+      "timestamp": "2026-01-03T01:09:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2188",
@@ -18472,7 +18472,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T03:09:35Z",
+      "timestamp": "2026-01-03T03:09:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18505,7 +18505,7 @@
       }
     },
     {
-      "timestamp": "2026-01-03T07:24:35Z",
+      "timestamp": "2026-01-03T07:24:35+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18538,7 +18538,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T09:09:30Z",
+      "timestamp": "2026-01-05T09:09:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18571,7 +18571,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T09:24:30Z",
+      "timestamp": "2026-01-05T09:24:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -18604,7 +18604,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T09:39:30Z",
+      "timestamp": "2026-01-05T09:39:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.16",
@@ -18637,7 +18637,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T09:54:30Z",
+      "timestamp": "2026-01-05T09:54:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18670,7 +18670,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T10:09:30Z",
+      "timestamp": "2026-01-05T10:09:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18703,7 +18703,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T10:24:30Z",
+      "timestamp": "2026-01-05T10:24:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18736,7 +18736,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T10:39:30Z",
+      "timestamp": "2026-01-05T10:39:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18769,7 +18769,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T10:54:29Z",
+      "timestamp": "2026-01-05T10:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18802,7 +18802,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T11:09:30Z",
+      "timestamp": "2026-01-05T11:09:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -18835,7 +18835,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T11:24:29Z",
+      "timestamp": "2026-01-05T11:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -18868,7 +18868,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T11:39:29Z",
+      "timestamp": "2026-01-05T11:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -18901,7 +18901,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T11:54:29Z",
+      "timestamp": "2026-01-05T11:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2",
@@ -18934,7 +18934,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T12:09:30Z",
+      "timestamp": "2026-01-05T12:09:30+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -18967,7 +18967,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T12:24:29Z",
+      "timestamp": "2026-01-05T12:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -19000,7 +19000,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T12:39:29Z",
+      "timestamp": "2026-01-05T12:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -19033,7 +19033,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T12:54:29Z",
+      "timestamp": "2026-01-05T12:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.22",
@@ -19066,7 +19066,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T13:09:29Z",
+      "timestamp": "2026-01-05T13:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2396",
@@ -19099,7 +19099,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T13:24:29Z",
+      "timestamp": "2026-01-05T13:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2396",
@@ -19132,7 +19132,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T13:39:29Z",
+      "timestamp": "2026-01-05T13:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -19165,7 +19165,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T13:54:29Z",
+      "timestamp": "2026-01-05T13:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2398",
@@ -19198,7 +19198,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T14:09:29Z",
+      "timestamp": "2026-01-05T14:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.24",
@@ -19231,7 +19231,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T14:24:29Z",
+      "timestamp": "2026-01-05T14:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.2206",
@@ -19264,7 +19264,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T14:39:29Z",
+      "timestamp": "2026-01-05T14:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.25",
@@ -19297,7 +19297,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T14:54:29Z",
+      "timestamp": "2026-01-05T14:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.09",
@@ -19330,7 +19330,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T15:09:29Z",
+      "timestamp": "2026-01-05T15:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.0798",
@@ -19363,7 +19363,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T15:24:29Z",
+      "timestamp": "2026-01-05T15:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.07",
@@ -19396,7 +19396,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T15:39:29Z",
+      "timestamp": "2026-01-05T15:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.08",
@@ -19429,7 +19429,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T15:54:29Z",
+      "timestamp": "2026-01-05T15:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.08",
@@ -19462,7 +19462,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T16:09:29Z",
+      "timestamp": "2026-01-05T16:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.18",
@@ -19495,7 +19495,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T16:24:29Z",
+      "timestamp": "2026-01-05T16:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.15",
@@ -19528,7 +19528,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T16:39:29Z",
+      "timestamp": "2026-01-05T16:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.13",
@@ -19561,7 +19561,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T16:54:29Z",
+      "timestamp": "2026-01-05T16:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.13",
@@ -19594,7 +19594,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T17:09:29Z",
+      "timestamp": "2026-01-05T17:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -19627,7 +19627,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T17:24:29Z",
+      "timestamp": "2026-01-05T17:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -19660,7 +19660,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T17:39:29Z",
+      "timestamp": "2026-01-05T17:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1318",
@@ -19693,7 +19693,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T17:54:29Z",
+      "timestamp": "2026-01-05T17:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -19726,7 +19726,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T18:09:29Z",
+      "timestamp": "2026-01-05T18:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -19759,7 +19759,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T18:24:29Z",
+      "timestamp": "2026-01-05T18:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -19792,7 +19792,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T18:39:29Z",
+      "timestamp": "2026-01-05T18:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.11",
@@ -19825,7 +19825,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T18:54:29Z",
+      "timestamp": "2026-01-05T18:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -19858,7 +19858,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T19:09:29Z",
+      "timestamp": "2026-01-05T19:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -19891,7 +19891,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T19:24:29Z",
+      "timestamp": "2026-01-05T19:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.13",
@@ -19924,7 +19924,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T19:39:29Z",
+      "timestamp": "2026-01-05T19:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -19957,7 +19957,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T19:54:29Z",
+      "timestamp": "2026-01-05T19:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -19990,7 +19990,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T20:09:29Z",
+      "timestamp": "2026-01-05T20:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -20023,7 +20023,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T20:24:29Z",
+      "timestamp": "2026-01-05T20:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.13",
@@ -20056,7 +20056,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T20:39:29Z",
+      "timestamp": "2026-01-05T20:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -20089,7 +20089,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T20:54:29Z",
+      "timestamp": "2026-01-05T20:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.09",
@@ -20122,7 +20122,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T21:09:29Z",
+      "timestamp": "2026-01-05T21:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.06",
@@ -20155,7 +20155,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T21:24:29Z",
+      "timestamp": "2026-01-05T21:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.08",
@@ -20188,7 +20188,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T21:39:29Z",
+      "timestamp": "2026-01-05T21:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1",
@@ -20221,7 +20221,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T21:54:28Z",
+      "timestamp": "2026-01-05T21:54:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1004",
@@ -20254,7 +20254,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T22:09:29Z",
+      "timestamp": "2026-01-05T22:09:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1396",
@@ -20287,7 +20287,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T22:24:29Z",
+      "timestamp": "2026-01-05T22:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -20320,7 +20320,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T22:39:28Z",
+      "timestamp": "2026-01-05T22:39:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -20353,7 +20353,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T22:54:29Z",
+      "timestamp": "2026-01-05T22:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -20386,7 +20386,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T23:09:28Z",
+      "timestamp": "2026-01-05T23:09:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1202",
@@ -20419,7 +20419,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T23:24:28Z",
+      "timestamp": "2026-01-05T23:24:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -20452,7 +20452,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T23:39:29Z",
+      "timestamp": "2026-01-05T23:39:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.12",
@@ -20485,7 +20485,7 @@
       }
     },
     {
-      "timestamp": "2026-01-05T23:54:28Z",
+      "timestamp": "2026-01-05T23:54:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -20518,7 +20518,7 @@
       }
     },
     {
-      "timestamp": "2026-01-06T00:09:28Z",
+      "timestamp": "2026-01-06T00:09:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -20551,7 +20551,7 @@
       }
     },
     {
-      "timestamp": "2026-01-06T00:24:29Z",
+      "timestamp": "2026-01-06T00:24:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -20584,7 +20584,7 @@
       }
     },
     {
-      "timestamp": "2026-01-06T00:39:28Z",
+      "timestamp": "2026-01-06T00:39:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -20617,7 +20617,7 @@
       }
     },
     {
-      "timestamp": "2026-01-06T00:54:29Z",
+      "timestamp": "2026-01-06T00:54:29+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.14",
@@ -20650,7 +20650,7 @@
       }
     },
     {
-      "timestamp": "2026-01-06T01:09:28Z",
+      "timestamp": "2026-01-06T01:09:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.1226",
@@ -20683,7 +20683,7 @@
       }
     },
     {
-      "timestamp": "2026-01-06T03:09:28Z",
+      "timestamp": "2026-01-06T03:09:28+00:00",
       "positions": {
         "AMC": {
           "marketValue": "3.06",
@@ -20711,6 +20711,996 @@
         },
         "SGML": {
           "marketValue": "19000",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T09:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.11",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2325.8",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1582.7",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4726.5",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6213.24",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6175.8",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19362.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T09:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.11",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1580.85",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4722.4",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6215.55",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6177",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19375",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T09:39:29+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.11",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1580.85",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4725.4",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6228.75",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6178.4",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19262.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T09:54:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.11",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2327",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1582.3",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4721.5",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6245.58",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6182.3",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19262.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T10:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.11",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1582.65",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4724.1",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6239.31",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6179.3",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19250",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T10:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.11",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2326.7",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1581.95",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4723.2",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6239.31",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6178.5",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19162.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T10:39:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.12",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2327.2",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1582.35",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4723",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6243.93",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6181.5",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19125",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T10:54:28+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.12",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2326.1",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1583.1",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4724.1",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6252.18",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6183",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19125",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T11:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.14",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2326",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1585.85",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4725.6",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6252.18",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6184",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T11:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.14",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2326.7",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1585.85",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4725.2",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6248.55",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6183",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T11:39:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.14",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2326.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1585.65",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4724.9",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6243.93",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6182.3",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19137.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T11:54:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.14",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2327.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1586.55",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4727.3",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6241.29",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6184.1",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T12:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.082",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328.6",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.8",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4728.3",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6239.64",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6184.9",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T12:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.1",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2326.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.5",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4729",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6244.92",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6187.6",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T12:39:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.1",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328.6",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1585.05",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4728.5",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6243.6",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6188.2",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T12:54:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.08",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2330.6",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.4",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4726.5",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6247.56",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6191.8",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19237.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T13:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.08",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2331.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.75",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4728.7",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6253.5",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6191.4",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19337.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T13:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.1",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2330",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.15",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4727.7",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6258.45",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6191.2",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19275",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T13:39:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.08",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.05",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4731",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6261.09",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6190.2",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19362.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T13:54:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.0998",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2329.9",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1583.7",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4726.6",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6255.15",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6187.1",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19350",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T14:09:28+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.0994",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2328.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1582.9345",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4725",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6262.0998",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6183.8",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19487.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T14:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.1",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2324.7",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.9",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4735.5",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6281.8899",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6188.8",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19412.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T14:39:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.1508",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2347",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1587.6",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4720.018",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6286.17",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6193.1",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20462.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T14:54:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.2198",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2362.5",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1588.1",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4727",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6319.17",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6214.5",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "19975",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T15:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.19",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2357.375",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1584.9",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4704.5",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6299.37",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6216.2",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20212.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T15:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.15",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2369.376",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1575.875",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4716.9",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6316.5333",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6222.801",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20262.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T15:39:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.13",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2380.3",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1571.1",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4725",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6286.83",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6216.9",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20187.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T15:54:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.15",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2382.55",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1571.6",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4720.95",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6253.8267",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6207.4",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20112.5",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T16:09:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.151",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2380.2",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1568.325",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4721.45",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6219.675",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6201.6",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20150",
+          "costBasis": "17895.305"
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-06T16:24:27+00:00",
+      "positions": {
+        "AMC": {
+          "marketValue": "3.16",
+          "costBasis": "3.433"
+        },
+        "AMZN": {
+          "marketValue": "2386.3",
+          "costBasis": "2279.235"
+        },
+        "GOOGL": {
+          "marketValue": "1560.2725",
+          "costBasis": "1543.775"
+        },
+        "MSFT": {
+          "marketValue": "4722.9",
+          "costBasis": "4860.035"
+        },
+        "NVDA": {
+          "marketValue": "6229.0668",
+          "costBasis": "6060.8637"
+        },
+        "QQQ": {
+          "marketValue": "6206.6",
+          "costBasis": "6192.799"
+        },
+        "SGML": {
+          "marketValue": "20512.5",
           "costBasis": "17895.305"
         }
       }
