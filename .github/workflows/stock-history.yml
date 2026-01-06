@@ -21,6 +21,25 @@ jobs:
           fetch-depth: 0
           submodules: recursive
 
+      - name: Update data/ submodule to latest origin/main (full history)
+        run: |
+          set -e
+          cd data
+
+          git remote -v
+
+          # Ensure full history
+          git fetch --prune --tags --unshallow || true
+          git fetch --prune --tags
+
+          # Move working tree to latest origin/main
+          git show-ref --verify --quiet refs/remotes/origin/main
+          git checkout -B main origin/main
+
+          echo "data/ now at: $(git rev-parse --short HEAD)"
+          git log --oneline -5
+          echo "commit count: $(git rev-list --count HEAD)"
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
