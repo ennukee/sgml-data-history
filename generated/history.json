@@ -1,7 +1,7 @@
 {
   "submodule": "data",
   "file": "portfolio.json",
-  "lastUpdated": "2026-01-06T06:02:53.217Z",
+  "lastUpdated": "2026-01-06T06:44:31.574Z",
   "count": 590,
   "uniqueSymbols": [
     "AAPL",
@@ -17,7 +17,7 @@
   ],
   "data": [
     {
-      "timestamp": "2025-12-22T09:00:07+00:00",
+      "timestamp": "2025-12-22T09:00:07Z",
       "positions": {}
     },
     {
