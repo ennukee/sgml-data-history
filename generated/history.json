@@ -1,9 +1,494 @@
 {
   "submodule": "data",
   "file": "portfolio.json",
-  "lastUpdated": "2026-01-06T00:02:46.545Z",
-  "count": 50,
+  "lastUpdated": "2026-01-06T00:05:24.442Z",
+  "count": 547,
   "sgmlHistoryData": [
+    {
+      "timestamp": "2025-12-22T18:00:07Z",
+      "marketValue": "1313.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T18:15:07Z",
+      "marketValue": "1327",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T18:30:07Z",
+      "marketValue": "1329.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T18:45:07Z",
+      "marketValue": "1324",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T19:00:07Z",
+      "marketValue": "1308.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T19:15:07Z",
+      "marketValue": "1304.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T19:30:07Z",
+      "marketValue": "1333",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T19:45:07Z",
+      "marketValue": "1343",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T20:00:07Z",
+      "marketValue": "1341",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T20:15:07Z",
+      "marketValue": "1344",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T20:30:07Z",
+      "marketValue": "1343",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T20:45:07Z",
+      "marketValue": "1344.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T21:00:07Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T21:15:06Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T21:30:06Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T21:45:06Z",
+      "marketValue": "1331.74",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T22:00:06Z",
+      "marketValue": "1331.74",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T22:15:07Z",
+      "marketValue": "1331.74",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T22:30:07Z",
+      "marketValue": "1331.74",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T22:45:06Z",
+      "marketValue": "1348",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T23:00:06Z",
+      "marketValue": "1358",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T23:15:06Z",
+      "marketValue": "1355",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T23:30:06Z",
+      "marketValue": "1356",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-22T23:45:06Z",
+      "marketValue": "1355",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T00:00:06Z",
+      "marketValue": "1355",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T00:15:06Z",
+      "marketValue": "1354",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T00:30:06Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T00:45:06Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T01:00:06Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T03:15:06Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T09:00:05Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T09:15:05Z",
+      "marketValue": "1434",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T09:30:05Z",
+      "marketValue": "1430",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T09:45:05Z",
+      "marketValue": "1409",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T10:00:05Z",
+      "marketValue": "1401",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T10:15:05Z",
+      "marketValue": "1400",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T10:30:05Z",
+      "marketValue": "1400",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T10:45:05Z",
+      "marketValue": "1412",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T11:00:05Z",
+      "marketValue": "1410",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T11:15:05Z",
+      "marketValue": "1413",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T11:30:05Z",
+      "marketValue": "1411",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T11:45:05Z",
+      "marketValue": "1414",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T12:00:05Z",
+      "marketValue": "1404",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T12:15:05Z",
+      "marketValue": "1385",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T12:30:05Z",
+      "marketValue": "1384",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T12:45:05Z",
+      "marketValue": "1391",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T13:00:05Z",
+      "marketValue": "1413",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T13:15:05Z",
+      "marketValue": "1395",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T13:30:04Z",
+      "marketValue": "1407",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T13:45:04Z",
+      "marketValue": "1405",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T14:00:05Z",
+      "marketValue": "1391",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T14:15:05Z",
+      "marketValue": "1378",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T14:30:05Z",
+      "marketValue": "1328.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T14:45:05Z",
+      "marketValue": "1373",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T15:00:05Z",
+      "marketValue": "1436",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T15:15:05Z",
+      "marketValue": "1385.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T15:30:05Z",
+      "marketValue": "1364",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T15:45:05Z",
+      "marketValue": "1355",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T16:00:05Z",
+      "marketValue": "1350.06",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T16:15:05Z",
+      "marketValue": "1337.1",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T16:30:05Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T16:45:04Z",
+      "marketValue": "1345.58",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T16:55:01Z",
+      "marketValue": "1347.86",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T17:10:01Z",
+      "marketValue": "1332.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T17:25:01Z",
+      "marketValue": "1336",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T17:40:01Z",
+      "marketValue": "1337",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T17:55:01Z",
+      "marketValue": "1337",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T18:10:01Z",
+      "marketValue": "1340",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T18:25:01Z",
+      "marketValue": "1337",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T18:40:01Z",
+      "marketValue": "1340",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T18:55:01Z",
+      "marketValue": "1339",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T19:10:01Z",
+      "marketValue": "1342",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T19:25:01Z",
+      "marketValue": "1340",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T19:40:01Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T19:55:01Z",
+      "marketValue": "1343.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T20:10:01Z",
+      "marketValue": "1349",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T20:25:01Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T20:40:01Z",
+      "marketValue": "1365",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T20:55:01Z",
+      "marketValue": "1340",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T21:10:01Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T21:25:02Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T21:40:01Z",
+      "marketValue": "1349",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T21:55:01Z",
+      "marketValue": "1349",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T22:10:01Z",
+      "marketValue": "1349",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T22:25:01Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T22:40:01Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T22:55:01Z",
+      "marketValue": "1337",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T23:10:01Z",
+      "marketValue": "1341",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T23:25:01Z",
+      "marketValue": "1341",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T23:40:01Z",
+      "marketValue": "1341",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-23T23:55:01Z",
+      "marketValue": "1338",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T00:10:01Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T00:25:01Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T00:40:00Z",
+      "marketValue": "1345",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T00:55:00Z",
+      "marketValue": "1363",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T01:10:00Z",
+      "marketValue": "1363",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T03:10:00Z",
+      "marketValue": "1349",
+      "costBasis": "1314.58"
+    },
     {
       "timestamp": "2025-12-24T07:25:00Z",
       "marketValue": "1349",
@@ -253,6 +738,2006 @@
       "timestamp": "2025-12-24T21:09:59Z",
       "marketValue": "1350",
       "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T21:24:59Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T21:39:58Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T21:54:59Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-24T22:09:58Z",
+      "marketValue": "1350",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-25T03:09:58Z",
+      "marketValue": "1351",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-25T07:24:58Z",
+      "marketValue": "1351",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T09:09:55Z",
+      "marketValue": "1450",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T09:24:55Z",
+      "marketValue": "1461",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T09:39:55Z",
+      "marketValue": "1449",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T09:54:55Z",
+      "marketValue": "1449",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T10:09:55Z",
+      "marketValue": "1460",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T10:24:55Z",
+      "marketValue": "1460",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T10:39:55Z",
+      "marketValue": "1460",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T10:54:55Z",
+      "marketValue": "1460",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T11:09:55Z",
+      "marketValue": "1443",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T11:24:55Z",
+      "marketValue": "1443",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T11:39:55Z",
+      "marketValue": "1443",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T11:54:55Z",
+      "marketValue": "1440",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T12:09:55Z",
+      "marketValue": "1430",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T12:24:55Z",
+      "marketValue": "1425",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T12:39:55Z",
+      "marketValue": "1429",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T12:54:55Z",
+      "marketValue": "1430",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T13:09:55Z",
+      "marketValue": "1436",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T13:24:55Z",
+      "marketValue": "1440",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T13:39:55Z",
+      "marketValue": "1436",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T13:54:54Z",
+      "marketValue": "1434.91",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T14:09:55Z",
+      "marketValue": "1421",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T14:24:54Z",
+      "marketValue": "1445",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T14:39:55Z",
+      "marketValue": "1430",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T14:54:55Z",
+      "marketValue": "1439",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T15:09:55Z",
+      "marketValue": "1433",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T15:24:54Z",
+      "marketValue": "1420",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T15:39:55Z",
+      "marketValue": "1428.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T15:54:55Z",
+      "marketValue": "1437.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T16:09:55Z",
+      "marketValue": "1453.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T16:24:54Z",
+      "marketValue": "1442.95",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T16:39:55Z",
+      "marketValue": "1445",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T16:54:55Z",
+      "marketValue": "1441",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T17:09:55Z",
+      "marketValue": "1440.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T17:24:54Z",
+      "marketValue": "1436.5",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T17:39:55Z",
+      "marketValue": "1440",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T17:54:54Z",
+      "marketValue": "1449",
+      "costBasis": "1314.58"
+    },
+    {
+      "timestamp": "2025-12-26T18:09:55Z",
+      "marketValue": "18150",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T18:24:55Z",
+      "marketValue": "18025",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T18:39:55Z",
+      "marketValue": "17987.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T18:54:55Z",
+      "marketValue": "18187.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T19:09:54Z",
+      "marketValue": "17925",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T19:24:54Z",
+      "marketValue": "17800",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T19:39:54Z",
+      "marketValue": "17625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T19:54:54Z",
+      "marketValue": "17639.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T20:09:54Z",
+      "marketValue": "17776.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T20:24:54Z",
+      "marketValue": "17875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T20:39:54Z",
+      "marketValue": "17872.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T20:54:54Z",
+      "marketValue": "18100",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T21:09:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T21:24:54Z",
+      "marketValue": "18237.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T21:39:54Z",
+      "marketValue": "17812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T21:54:54Z",
+      "marketValue": "17812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T22:09:54Z",
+      "marketValue": "17812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T22:24:54Z",
+      "marketValue": "18062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T22:39:54Z",
+      "marketValue": "18062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T22:54:54Z",
+      "marketValue": "18000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T23:09:54Z",
+      "marketValue": "18175",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T23:24:54Z",
+      "marketValue": "18175",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T23:39:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-26T23:54:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T00:09:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T00:24:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T00:39:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T00:54:59Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T01:09:54Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T03:09:53Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-27T07:24:53Z",
+      "marketValue": "18125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T09:09:47Z",
+      "marketValue": "17125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T09:24:48Z",
+      "marketValue": "17000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T09:39:48Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T09:54:48Z",
+      "marketValue": "17062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T10:09:47Z",
+      "marketValue": "17487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T10:24:47Z",
+      "marketValue": "17475",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T10:39:47Z",
+      "marketValue": "17200",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T10:54:47Z",
+      "marketValue": "17187.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T11:09:47Z",
+      "marketValue": "17187.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T11:24:47Z",
+      "marketValue": "17075",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T11:39:47Z",
+      "marketValue": "17250",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T11:54:48Z",
+      "marketValue": "17075",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T12:09:47Z",
+      "marketValue": "17112.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T12:24:47Z",
+      "marketValue": "16875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T12:39:47Z",
+      "marketValue": "16750",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T12:54:47Z",
+      "marketValue": "16787.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T13:09:47Z",
+      "marketValue": "16900",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T13:24:47Z",
+      "marketValue": "16925",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T13:39:47Z",
+      "marketValue": "16759.875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T13:54:47Z",
+      "marketValue": "16712.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T14:09:47Z",
+      "marketValue": "16837.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T14:24:47Z",
+      "marketValue": "16725",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T14:39:47Z",
+      "marketValue": "16312.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T14:54:46Z",
+      "marketValue": "16350",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T15:09:47Z",
+      "marketValue": "16581.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T15:24:46Z",
+      "marketValue": "16381.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T15:39:46Z",
+      "marketValue": "16368.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T15:54:46Z",
+      "marketValue": "16316.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T16:09:47Z",
+      "marketValue": "16600",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T16:24:46Z",
+      "marketValue": "16641.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T16:39:46Z",
+      "marketValue": "16962.375",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T16:54:46Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T17:09:46Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T17:24:46Z",
+      "marketValue": "16762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T17:39:46Z",
+      "marketValue": "16650",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T17:54:46Z",
+      "marketValue": "16643.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T18:09:46Z",
+      "marketValue": "16612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T18:24:46Z",
+      "marketValue": "16612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T18:39:46Z",
+      "marketValue": "16606.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T18:54:46Z",
+      "marketValue": "16600",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T19:09:46Z",
+      "marketValue": "16468.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T19:24:46Z",
+      "marketValue": "16462.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T19:39:46Z",
+      "marketValue": "16497.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T19:54:46Z",
+      "marketValue": "16478.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T20:09:46Z",
+      "marketValue": "16531.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T20:24:46Z",
+      "marketValue": "16568.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T20:39:46Z",
+      "marketValue": "16568.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T20:54:46Z",
+      "marketValue": "16611.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T21:09:46Z",
+      "marketValue": "16959",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T21:24:46Z",
+      "marketValue": "17005.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T21:39:46Z",
+      "marketValue": "17005.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T21:54:46Z",
+      "marketValue": "17005.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T22:09:46Z",
+      "marketValue": "17005.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T22:24:46Z",
+      "marketValue": "16587.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T22:39:46Z",
+      "marketValue": "16587.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T22:54:46Z",
+      "marketValue": "16587.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T23:09:46Z",
+      "marketValue": "16932.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T23:24:46Z",
+      "marketValue": "16932.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T23:39:46Z",
+      "marketValue": "16932.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-29T23:54:46Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T00:09:46Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T00:24:45Z",
+      "marketValue": "16893",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T00:39:45Z",
+      "marketValue": "16893",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T00:54:45Z",
+      "marketValue": "16893",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T01:09:45Z",
+      "marketValue": "16893",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T03:09:45Z",
+      "marketValue": "16531.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T07:24:45Z",
+      "marketValue": "16531.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T09:09:44Z",
+      "marketValue": "16825",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T09:24:44Z",
+      "marketValue": "16825",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T09:39:44Z",
+      "marketValue": "16825",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T09:54:44Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T10:09:44Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T10:24:44Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T10:39:44Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T10:54:44Z",
+      "marketValue": "16987.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T11:09:44Z",
+      "marketValue": "17125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T11:24:44Z",
+      "marketValue": "17112.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T11:39:44Z",
+      "marketValue": "17125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T11:54:44Z",
+      "marketValue": "17125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T12:09:44Z",
+      "marketValue": "16875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T12:24:44Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T12:39:44Z",
+      "marketValue": "16750",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T12:54:44Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T13:09:44Z",
+      "marketValue": "16937.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T13:24:44Z",
+      "marketValue": "17000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T13:39:44Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T13:54:44Z",
+      "marketValue": "16975",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T14:09:44Z",
+      "marketValue": "16937.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T14:24:44Z",
+      "marketValue": "17050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T14:39:44Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T14:54:44Z",
+      "marketValue": "17000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T15:09:44Z",
+      "marketValue": "17237.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T15:24:44Z",
+      "marketValue": "17268.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T15:39:44Z",
+      "marketValue": "17467.875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T15:54:44Z",
+      "marketValue": "17325",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T16:09:44Z",
+      "marketValue": "17287.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T16:24:44Z",
+      "marketValue": "17281.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T16:39:44Z",
+      "marketValue": "17175",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T16:54:44Z",
+      "marketValue": "17300",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T17:09:44Z",
+      "marketValue": "17362.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T17:24:44Z",
+      "marketValue": "17640.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T17:39:44Z",
+      "marketValue": "17543.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T17:54:44Z",
+      "marketValue": "17462.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T18:09:44Z",
+      "marketValue": "17387.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T18:24:44Z",
+      "marketValue": "17537.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T18:39:43Z",
+      "marketValue": "17425",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T18:54:43Z",
+      "marketValue": "17362.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T19:09:43Z",
+      "marketValue": "17237.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T19:24:43Z",
+      "marketValue": "17325",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T19:39:43Z",
+      "marketValue": "17350",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T19:54:43Z",
+      "marketValue": "17236.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T20:09:44Z",
+      "marketValue": "17193.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T20:24:43Z",
+      "marketValue": "17200",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T20:39:43Z",
+      "marketValue": "17050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T20:54:44Z",
+      "marketValue": "16874.875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T21:09:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T21:24:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T21:39:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T21:54:44Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T22:09:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T22:24:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T22:39:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T22:54:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T23:09:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T23:24:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T23:39:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-30T23:54:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T00:09:43Z",
+      "marketValue": "16978",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T00:24:43Z",
+      "marketValue": "17237.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T00:39:43Z",
+      "marketValue": "17262.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T00:54:43Z",
+      "marketValue": "17262.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T01:09:43Z",
+      "marketValue": "17262.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T03:09:43Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T07:24:42Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T09:09:42Z",
+      "marketValue": "17262.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T09:24:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T09:39:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T09:54:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T10:09:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T10:24:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T10:39:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T10:54:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T11:09:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T11:24:42Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T11:39:42Z",
+      "marketValue": "16837.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T11:54:42Z",
+      "marketValue": "16837.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T12:09:42Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T12:24:42Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T12:39:42Z",
+      "marketValue": "16875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T12:54:42Z",
+      "marketValue": "16875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T13:09:42Z",
+      "marketValue": "16700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T13:24:42Z",
+      "marketValue": "16700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T13:39:42Z",
+      "marketValue": "16887.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T13:54:42Z",
+      "marketValue": "16775",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T14:09:42Z",
+      "marketValue": "16812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T14:24:42Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T14:39:42Z",
+      "marketValue": "16692.125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T14:54:42Z",
+      "marketValue": "16487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T15:09:42Z",
+      "marketValue": "16556.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T15:24:41Z",
+      "marketValue": "16787.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T15:39:42Z",
+      "marketValue": "17075",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T15:54:42Z",
+      "marketValue": "17093.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T16:09:41Z",
+      "marketValue": "17050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T16:24:42Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T16:39:41Z",
+      "marketValue": "16850",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T16:54:41Z",
+      "marketValue": "16962.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T17:09:41Z",
+      "marketValue": "16912.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T17:24:41Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T17:39:41Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T17:54:41Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T18:09:41Z",
+      "marketValue": "16900",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T18:24:41Z",
+      "marketValue": "16943.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T18:39:41Z",
+      "marketValue": "16868.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T18:54:41Z",
+      "marketValue": "16887.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T19:09:41Z",
+      "marketValue": "16881.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T19:24:41Z",
+      "marketValue": "16618.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T19:39:41Z",
+      "marketValue": "16512.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T19:54:41Z",
+      "marketValue": "16475.125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T20:09:41Z",
+      "marketValue": "16437.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T20:24:41Z",
+      "marketValue": "16487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T20:39:41Z",
+      "marketValue": "16587.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T20:54:41Z",
+      "marketValue": "16481.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T21:09:41Z",
+      "marketValue": "16487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T21:24:41Z",
+      "marketValue": "16812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T21:39:41Z",
+      "marketValue": "16812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T21:54:41Z",
+      "marketValue": "16712.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T22:09:41Z",
+      "marketValue": "16712.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T22:24:41Z",
+      "marketValue": "16500",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T22:39:41Z",
+      "marketValue": "16500",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T22:54:41Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T23:09:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T23:24:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T23:39:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2025-12-31T23:54:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T00:09:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T00:24:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T00:39:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T00:54:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T01:09:41Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T03:09:40Z",
+      "marketValue": "16487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T06:39:40Z",
+      "marketValue": "16487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-01T07:24:40Z",
+      "marketValue": "16487.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T09:09:37Z",
+      "marketValue": "16525",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T09:24:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T09:39:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T09:54:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T10:09:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T10:24:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T10:39:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T10:54:37Z",
+      "marketValue": "16962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T11:09:37Z",
+      "marketValue": "17250",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T11:24:37Z",
+      "marketValue": "17250",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T11:39:37Z",
+      "marketValue": "16987.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T11:54:37Z",
+      "marketValue": "17000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T12:09:37Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T12:24:37Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T12:39:37Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T12:54:37Z",
+      "marketValue": "16937.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T13:09:36Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T13:24:37Z",
+      "marketValue": "16950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T13:39:36Z",
+      "marketValue": "16925",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T13:54:37Z",
+      "marketValue": "16925",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T14:09:37Z",
+      "marketValue": "16887.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T14:24:36Z",
+      "marketValue": "16925",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T14:39:37Z",
+      "marketValue": "16818.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T14:54:36Z",
+      "marketValue": "17312.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T15:09:36Z",
+      "marketValue": "17181.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T15:24:36Z",
+      "marketValue": "16712.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T15:39:36Z",
+      "marketValue": "17150",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T15:54:36Z",
+      "marketValue": "16862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T16:09:37Z",
+      "marketValue": "16675",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T16:24:36Z",
+      "marketValue": "16750",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T16:39:37Z",
+      "marketValue": "16712.625",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T16:54:36Z",
+      "marketValue": "16856.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T17:09:36Z",
+      "marketValue": "16800.875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T17:24:36Z",
+      "marketValue": "17075",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T17:39:36Z",
+      "marketValue": "17187.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T17:54:36Z",
+      "marketValue": "17175",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T18:09:36Z",
+      "marketValue": "17018.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T18:24:36Z",
+      "marketValue": "17087.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T18:39:36Z",
+      "marketValue": "17138.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T18:54:36Z",
+      "marketValue": "17225",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T19:24:36Z",
+      "marketValue": "17537.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T19:39:36Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T19:54:36Z",
+      "marketValue": "17650",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T20:09:36Z",
+      "marketValue": "17618.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T20:24:36Z",
+      "marketValue": "17687.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T20:39:36Z",
+      "marketValue": "17656.25",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T20:54:36Z",
+      "marketValue": "17700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T21:09:36Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T21:24:36Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T21:39:36Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T21:54:36Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T22:09:36Z",
+      "marketValue": "17750",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T22:24:36Z",
+      "marketValue": "17750",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T22:39:36Z",
+      "marketValue": "17749.125",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T22:54:36Z",
+      "marketValue": "17550",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T23:09:36Z",
+      "marketValue": "17550",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T23:24:36Z",
+      "marketValue": "17612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T23:39:35Z",
+      "marketValue": "17612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-02T23:54:35Z",
+      "marketValue": "17612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T00:09:35Z",
+      "marketValue": "17587.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T00:24:35Z",
+      "marketValue": "17612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T00:39:35Z",
+      "marketValue": "17637.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T00:54:36Z",
+      "marketValue": "17562.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T01:09:35Z",
+      "marketValue": "17562.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T03:09:35Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-03T07:24:35Z",
+      "marketValue": "17762.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T09:09:30Z",
+      "marketValue": "18025",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T09:24:30Z",
+      "marketValue": "17875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T09:39:30Z",
+      "marketValue": "17912.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T09:54:30Z",
+      "marketValue": "18025",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T10:09:30Z",
+      "marketValue": "18025",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T10:24:30Z",
+      "marketValue": "18050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T10:39:30Z",
+      "marketValue": "18050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T10:54:29Z",
+      "marketValue": "18012.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T11:09:30Z",
+      "marketValue": "18012.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T11:24:29Z",
+      "marketValue": "18012.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T11:39:29Z",
+      "marketValue": "18000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T11:54:29Z",
+      "marketValue": "18012.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T12:09:30Z",
+      "marketValue": "18187.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T12:24:29Z",
+      "marketValue": "18187.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T12:39:29Z",
+      "marketValue": "18175",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T12:54:29Z",
+      "marketValue": "18212.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T13:09:29Z",
+      "marketValue": "17950",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T13:24:29Z",
+      "marketValue": "17812.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T13:39:29Z",
+      "marketValue": "17875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T13:54:29Z",
+      "marketValue": "17862.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T14:09:29Z",
+      "marketValue": "18000",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T14:24:29Z",
+      "marketValue": "17887.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T14:39:29Z",
+      "marketValue": "17362.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T14:54:29Z",
+      "marketValue": "17700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T15:09:29Z",
+      "marketValue": "17612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T15:24:29Z",
+      "marketValue": "17759.375",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T15:39:29Z",
+      "marketValue": "17700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T15:54:29Z",
+      "marketValue": "17975",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T16:09:29Z",
+      "marketValue": "18700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T16:24:29Z",
+      "marketValue": "18612.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T16:39:29Z",
+      "marketValue": "18468.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T16:54:29Z",
+      "marketValue": "18700",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T17:09:29Z",
+      "marketValue": "18769.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T17:24:29Z",
+      "marketValue": "18687.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T17:39:29Z",
+      "marketValue": "18887.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T17:54:29Z",
+      "marketValue": "19062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T18:09:29Z",
+      "marketValue": "19071.875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T18:24:29Z",
+      "marketValue": "19162.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T18:39:29Z",
+      "marketValue": "19262.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T18:54:29Z",
+      "marketValue": "19300",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T19:09:29Z",
+      "marketValue": "19143.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T19:24:29Z",
+      "marketValue": "19062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T19:39:29Z",
+      "marketValue": "19137.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T19:54:29Z",
+      "marketValue": "19100",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T20:09:29Z",
+      "marketValue": "19093.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T20:24:29Z",
+      "marketValue": "19043.75",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T20:39:29Z",
+      "marketValue": "19175",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T20:54:29Z",
+      "marketValue": "19100",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T21:09:29Z",
+      "marketValue": "18875",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T21:24:29Z",
+      "marketValue": "18755",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T21:39:29Z",
+      "marketValue": "19062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T21:54:28Z",
+      "marketValue": "19050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T22:09:29Z",
+      "marketValue": "19050",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T22:24:29Z",
+      "marketValue": "18962.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T22:39:28Z",
+      "marketValue": "19062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T22:54:29Z",
+      "marketValue": "19062.5",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T23:09:28Z",
+      "marketValue": "19025",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T23:24:28Z",
+      "marketValue": "19307.375",
+      "costBasis": "17895.305"
+    },
+    {
+      "timestamp": "2026-01-05T23:39:29Z",
+      "marketValue": "19312.5",
+      "costBasis": "17895.305"
     }
   ]
 }
