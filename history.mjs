@@ -47,6 +47,7 @@ const commitsRaw = git(submoduleCwd, [
 const commits = commitsRaw.split("\n").map(s => s.trim()).filter(Boolean);
 const limited = MAX_COMMITS ? commits.slice(0, MAX_COMMITS) : commits;
 
+const historicSymbols = new Set();
 const out = [];
 
 console.log('detected', commits.length, 'commits modifying', TARGET_JSON_PATH);
@@ -64,15 +65,18 @@ for (const sha of limited) {
   }
 
   const timestamp = git(submoduleCwd, ["show", "-s", "--format=%cI", sha]);
-  const sgmlData = json.positions.find(pos => pos.symbol === 'SGML');
 
-  if (sgmlData?.marketValue) {
-    out.push({
-      timestamp,
-      marketValue: sgmlData.marketValue,
-      costBasis: sgmlData.costBasis,
-    });
+  for (const pos of json.positions) {
+    historicSymbols.add(pos.symbol);
   }
+
+  out.push({
+    timestamp,
+    positions: Object.fromEntries(json.positions.map(pos => ([pos.symbol, {
+      marketValue: pos.marketValue,
+      costBasis: pos.costBasis,
+    }]))),
+  });
 }
 
 const outputAbs = resolve(process.cwd(), OUTPUT_PATH);
@@ -86,7 +90,8 @@ writeFileSync(
       file: TARGET_JSON_PATH,
       lastUpdated: new Date().toISOString(),
       count: out.length,
-      sgmlHistoryData: out,
+      uniqueSymbols: Array.from(historicSymbols).sort(),
+      data: out,
     },
     null,
     2
