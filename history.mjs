@@ -66,6 +66,14 @@ for (const sha of limited) {
 
   const timestamp = git(submoduleCwd, ["show", "-s", "--format=%cI", sha]);
 
+  const date = new Date(timestamp);
+  // Skip snapshots on or before December 21st, 2025
+  const cutoffDate = new Date('2025-12-21T23:59:59.999Z');
+  if (date <= cutoffDate) {
+    console.log(`Skipping commit ${sha} (timestamp: ${timestamp})`);
+    continue;
+  }
+
   for (const pos of json.positions) {
     historicSymbols.add(pos.symbol);
   }
