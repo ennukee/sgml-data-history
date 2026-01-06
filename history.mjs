@@ -45,7 +45,7 @@ const commitsRaw = git(submoduleCwd, [
   TARGET_JSON_PATH,
 ]);
 const commits = commitsRaw.split("\n").map(s => s.trim()).filter(Boolean);
-const limited = MAX_COMMITS ? commits.slice(400, 400 + MAX_COMMITS) : commits;
+const limited = MAX_COMMITS ? commits.slice(0, MAX_COMMITS) : commits;
 
 const out = [];
 
@@ -64,7 +64,6 @@ for (const sha of limited) {
   }
 
   const timestamp = git(submoduleCwd, ["show", "-s", "--format=%cI", sha]);
-
   const sgmlData = json.positions.find(pos => pos.symbol === 'SGML');
 
   if (sgmlData?.marketValue) {
