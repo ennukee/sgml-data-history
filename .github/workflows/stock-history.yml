@@ -1,0 +1,48 @@
+name: Build JSON History
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+  # push:
+  #   branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo with submodules (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: recursive
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build history output from submodule
+        env:
+          SUBMODULE_DIR: data
+          TARGET_JSON_PATH: portfolio.json
+          OUTPUT_PATH: generated/history.json
+        run: npm run build
+
+      - name: Commit and push if changed
+        run: |
+          set -e
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update generated JSON history"
+          git push
